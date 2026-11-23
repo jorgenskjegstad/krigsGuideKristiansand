@@ -1,0 +1,6 @@
+# ⚠ Erstatt DOMAIN.TLD før lansering.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://DOMAIN.TLD/sitemap.xml
